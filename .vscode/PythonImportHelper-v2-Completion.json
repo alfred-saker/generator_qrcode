@@ -30,7 +30,7 @@
         "kind": 5,
         "importPath": "main",
         "description": "main",
-        "peekOfCode": "data = \"https://924efbbcd97a93a4.chmeetings.com/forms/60AADCBDF3EEAAAE\"\n# Ajouter les données à l'objet QRCode\nqr.add_data(data)\n# Créer le code QR\nqr.make(fit=True)\n# Créer une image à partir du code QR avec une couleur de remplissage noire et un fond blanc\nimg = qr.make_image(fill_color=\"black\", back_color=\"white\")\n# Sauvegarder l'image du code QR\nimg.save(\"qr_code.png\")\nprint(\"QR code généré et sauvegardé sous le nom 'qr_code.png'\")",
+        "peekOfCode": "data = \"https://924efbbcd97a93a4.chmeetings.com/forms/60AADCBDF3EEAAAE\"\n# Ajouter les données à l'objet QRCode\nqr.add_data(data)\n# Créer le code QR\nqr.make(fit=True)\n# Créer une image à partir du code QR avec une couleur de remplissage noire et un fond blanc\nimg = qr.make_image(fill_color=\"black\", back_color=\"white\")\n# Sauvegarder l'image du code QR\nimg.save(\"Inscription_member_ICC_Gonesse.png\")\nprint(\"QR code généré et sauvegardé sous le nom 'qr_code.png'\")",
         "detail": "main",
         "documentation": {}
     },
@@ -39,7 +39,7 @@
         "kind": 5,
         "importPath": "main",
         "description": "main",
-        "peekOfCode": "img = qr.make_image(fill_color=\"black\", back_color=\"white\")\n# Sauvegarder l'image du code QR\nimg.save(\"qr_code.png\")\nprint(\"QR code généré et sauvegardé sous le nom 'qr_code.png'\")",
+        "peekOfCode": "img = qr.make_image(fill_color=\"black\", back_color=\"white\")\n# Sauvegarder l'image du code QR\nimg.save(\"Inscription_member_ICC_Gonesse.png\")\nprint(\"QR code généré et sauvegardé sous le nom 'qr_code.png'\")",
         "detail": "main",
         "documentation": {}
     }

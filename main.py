@@ -22,6 +22,6 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
 
 # Sauvegarder l'image du code QR
-img.save("qr_code.png")
+img.save("Inscription_member_ICC_Gonesse.png")
 
 print("QR code généré et sauvegardé sous le nom 'qr_code.png'")
